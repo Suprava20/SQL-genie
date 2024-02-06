@@ -1,0 +1,12 @@
+agenda -> text to SQL LLM application
+Prompt -- LLM -- Gemini Pro -- Query -- SQL Database -- Response
+
+Implementation
+MySQL -- Insert Record -- Python Programming 
+LLM application --> Gemini Pro --> SQL Database
+
+
+---library---
+streamlit
+google-GeenerativeAI
+Python-dotenv
